@@ -1,0 +1,10 @@
+selenium
+pandas
+openpyxl
+os
+time
+glob
+chromium-browser
+chromium-chromedriver
+matplotlib
+numpy
